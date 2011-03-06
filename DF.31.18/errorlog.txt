@@ -1,0 +1,98 @@
+Load Game: Invalid Squad ID Number
+path fail: longnose gar,0,45,134 -> 19,45,134: Id #419:Path Goal Flee Terrain:Station Marauder Mill at 2,44,134
+path fail: longnose gar,0,44,134 -> 19,43,134: Id #419:Path Goal Flee Terrain:Station None at 0,44,134
+path fail: longnose gar,0,45,134 -> 20,43,134: Id #419:Path Goal Flee Terrain:Station Marauder Mill at 3,42,134
+path fail: longnose gar,0,45,134 -> 19,44,134: Id #419:Path Goal Flee Terrain:Station Marauder Mill at 3,42,134
+path fail: pike,0,45,134 -> 19,45,134: Id #420:Path Goal Flee Terrain:Station None at 0,44,134
+path fail: pike,0,45,134 -> 19,45,134: Id #420:Path Goal Flee Terrain:Station None at 0,44,134
+path fail: pike,0,45,134 -> 19,44,134: Id #420:Path Goal Flee Terrain:Station None at 1,44,134
+path fail: pike,0,45,134 -> 19,45,134: Id #420:Path Goal Flee Terrain:Station None at 1,44,134
+path fail: pike,0,45,134 -> 19,44,134: Id #420:Path Goal Flee Terrain:Station None at 2,43,134
+path fail: pike,0,45,134 -> 10,45,134: Id #420:Path Goal Seek Station Flood:Station Marauder Mill at 10,45,134
+path fail: pike,0,44,134 -> 20,44,134: Id #422:Path Goal Flee Terrain:Station None at 4,42,134
+path fail: pike,0,44,134 -> 19,45,134: Id #422:Path Goal Flee Terrain:Station None at 4,42,134
+Load Game: Invalid Squad ID Number
+Load Game: Invalid Squad ID Number
+Load Game: Invalid Squad ID Number
+path fail: dwarf,Dig,142,113,160 -> 147,118,160: Id #1186:Path Goal Dig:Station Wagon at 95,95,156
+path fail: dwarf,Dig,153,84,160 -> 166,78,160: Id #1666:Path Goal Dig:Station Mill Building at 136,138,160
+loop path fail: <same square> dwarf,Fell Tree,133,141,160 -> 148,182,161: Id #1460:Path Goal Chop:Station Mill Building at 138,142,160
+path fail: dwarf,Dig,162,87,160 -> 170,80,160: Id #1666:Path Goal Dig:Station Mill Building at 136,138,160
+path fail: dwarf,158,111,160 -> 158,106,160: Id #1668:Path Goal Seek Station:Station None at 158,105,160
+loop path fail: <same square> donkey,135,138,158 -> 139,137,158: Id #1647:Path Goal Seek Station:Station Mill Building at 139,137,158
+loop path fail: <same square> dwarf,Store Item in Bin,132,143,160 -> 135,148,160: Id #1667:Path Goal Store Item:Station Mill Building at 135,139,158
+loop path fail: <same square> dwarf,Store Item in Bin,131,142,160 -> 127,148,160: Id #1365:Path Goal Store Item:Station Mill Building at 140,141,158
+loop path fail: <same square> dog,128,138,160 -> 143,143,158: Id #1814:Path Goal Seek Station:Station Owner at 138,141,160
+loop path fail: <same square> cat,133,141,160 -> 112,144,161: Id #1192:Path Goal Seek Station:Station Owner at 128,140,160
+loop path fail: <same square> dwarf,Store Item in Stockpile,129,142,160 -> 116,164,160: Id #1755:Path Goal Seek Item for Storage:Station Mill Building at 133,145,160
+loop path fail: <same square> dwarf,Store Item in Stockpile,132,143,160 -> 116,164,160: Id #1832:Path Goal Seek Item for Storage:Station Mill Building at 145,142,158
+loop path fail: <same square> dwarf,Gather Plants,133,141,160 -> 71,147,160: Id #1366:Path Goal Gather Plant:Station Mill Building at 137,145,160
+loop path fail: <same square> dwarf,Store Item in Stockpile,128,140,160 -> 48,155,160: Id #1762:Path Goal Seek Item for Storage:Station Mill Building at 142,137,158
+loop path fail: <same square> dwarf,Construct Building,148,165,160 -> 133,160,160: Id #1458:Path Goal Drop Off Job Items:Station Mill Building at 133,144,160
+loop path fail: <same square> dwarf,Store Item in Stockpile,133,142,160 -> 122,164,160: Id #1759:Path Goal Seek Item for Storage:Station Mill Building at 133,145,160
+loop path fail: <same square> cat,132,143,160 -> 122,133,161: Id #1646:Path Goal Seek Station:Station Owner at 139,137,158
+path fail: dwarf,Make coke from bituminous coal,155,120,158 -> 164,179,159: Id #1189:Path Goal Come to Job Building:Station Mill Building at 113,133,158
+loop path fail: <same square> dwarf,Store Item in Barrel,129,142,160 -> 126,147,161: Id #1825:Path Goal Seek Item for Storage:Station Mill Building at 128,150,158
+loop path fail: <same square> cat,132,138,160 -> 148,137,159: Id #1610:Path Goal Seek Station:Station Owner at 147,142,159
+loop path fail: <same square> dwarf,Harvest Plants,128,139,160 -> 124,108,160: Id #1664:Path Goal Work at Building:Station Mill Building at 144,144,158
+loop path fail: <same square> dwarf,105,145,152 -> 109,138,152: Id #676:Path Goal Seek Station:Station Mill Building at 108,138,152
+loop path fail: <same square> dog,99,144,152 -> 44,146,149: Id #321:Path Goal Seek Station:Station Owner at 67,146,139
+loop path fail: <same square> dwarf,100,137,152 -> 113,120,152: Id #451:Path Goal Skill Demonstration:Station Mill Building at 115,143,152
+loop path fail: <same square> dog,99,144,152 -> 85,139,148: Id #912:Path Goal Seek Station:Station Owner at 97,146,150
+loop path fail: <same square> cat,97,147,149 -> 115,159,152: Id #916:Path Goal Seek Station:Station Vermin Hunting at 91,152,149
+path fail: cat,99,145,150 -> 4,140,155: Id #417:Path Goal Seek Station:Station Owner at 5,138,155
+path fail: dwarf,Store Item in Stockpile,8,149,156 -> 82,143,149: Id #668:Path Goal Seek Item for Storage:Station Squad Kill List at 138,154,152
+path fail: dwarf,Carve Up/Down Staircase,62,98,105 -> 62,98,106: Id #1223:Path Goal Dig:Station Mill Building at 49,120,105
+loop path fail: <same square> dwarf,Eat,62,94,107 -> 54,102,107: Id #1996:Path Goal Seek Eating Chair:Station Mill Building at 34,107,105
+loop path fail: <same square> dwarf,Store Item in Bin,44,97,105 -> 69,102,107: Id #1222:Path Goal Store Item:Station Mill Building at 49,124,105
+loop path fail: <same square> dwarf,44,96,106 -> 44,106,105: Id #1399:Path Goal Seek Station:Station Mill Building at 47,123,105
+path fail: dwarf,Carve Up/Down Staircase,94,117,122 -> 94,117,123: Id #8292:Path Goal Dig:Station Mill Building at 70,100,124
+loop path fail: <same square> dog,78,95,124 -> 78,88,124: Id #8448:Path Goal Seek Station:Station Mill Building at 79,89,124
+loop path fail: <same square> dwarf,Prepare Easy Meal,74,102,124 -> 78,108,124: Id #8497:Path Goal Come to Job Building:Station Mill Building at 71,104,124
+loop path fail: <same square> dwarf,Eat,80,104,124 -> 76,104,124: Id #8657:Path Goal Seek Eating Chair:Station Mill Building at 71,98,124
+loop path fail: <same square> dwarf,Eat,79,104,124 -> 76,104,124: Id #8657:Path Goal Seek Eating Chair:Station Mill Building at 71,98,124
+loop path fail: <same square> cat,90,100,124 -> 78,100,124: Id #8646:Path Goal Seek Station:Station Owner at 138,74,129
+path fail: dwarf,Dig Channel,57,101,128 -> 57,107,129: Id #8774:Path Goal Dig:Station Mill Building at 77,107,124
+loop path fail: <same square> dog,79,98,124 -> 77,97,124: Id #8304:Path Goal Seek Station:Station Owner at 88,106,128
+loop path fail: <same square> dog,75,104,124 -> 75,106,124: Id #8834:Path Goal Seek Station:Station Owner at 74,110,124
+loop path fail: <same square> dog,95,95,124 -> 78,92,124: Id #8454:Path Goal Seek Station:Station Owner at 96,92,129
+loop path fail: <same square> dog,90,99,124 -> 70,95,124: Id #8914:Path Goal Seek Station:Station Owner at 93,92,129
+loop path fail: <same square> dog,83,94,124 -> 97,91,129: Id #8449:Path Goal Seek Station:Station Owner at 96,92,129
+loop path fail: <same square> dog,83,107,124 -> 92,104,124: Id #8455:Path Goal Seek Station:Station Owner at 97,98,128
+loop path fail: <same square> bull,78,98,124 -> 78,100,124: Id #8990:Path Goal Seek Station:Station Owner at 78,90,124
+loop path fail: <same square> dog,70,94,124 -> 71,95,124: Id #8630:Path Goal Seek Station:Station Owner at 75,94,124
+loop path fail: <same square> cat,92,105,124 -> 90,105,124: Id #8307:Path Goal Seek Station:Station Owner at 96,101,124
+loop path fail: <same square> dog,93,99,128 -> 88,100,128: Id #8448:Path Goal Seek Station:Station Owner at 79,100,128
+loop path fail: <same square> dwarf,Store Item in Bag,89,102,128 -> 81,97,128: Id #8655:Path Goal Seek Item for Storage:Station Mill Building at 69,96,124
+loop path fail: <same square> dog,91,99,128 -> 77,94,128: Id #8479:Path Goal Seek Station:Station Owner at 76,94,128
+loop path fail: <same square> dog,91,103,128 -> 88,104,128: Id #8834:Path Goal Seek Station:Station Owner at 88,106,128
+loop path fail: <same square> cat,89,100,124 -> 72,104,124: Id #8999:Path Goal Seek Station:Station Mill Building at 72,105,124
+loop path fail: <same square> dog,96,101,128 -> 70,105,124: Id #8482:Path Goal Seek Station:Station Owner at 86,98,128
+loop path fail: <same square> dog,95,100,128 -> 70,105,124: Id #8482:Path Goal Seek Station:Station Owner at 86,98,128
+loop path fail: <same square> dog,76,99,124 -> 76,93,124: Id #8498:Path Goal Seek Station:Station Owner at 79,90,124
+loop path fail: <same square> dog,92,107,128 -> 88,105,128: Id #8629:Path Goal Seek Station:Station Owner at 87,106,128
+loop path fail: <same square> dog,112,100,129 -> 108,97,129: Id #8933:Path Goal Seek Station:Station Owner at 94,95,124
+loop path fail: <same square> dwarf,Eat,91,99,128 -> 81,97,128: Id #8657:Path Goal Seek Eating Chair:Station Squad Kill List at 115,103,129
+loop path fail: <same square> dog,89,100,128 -> 85,99,128: Id #8914:Path Goal Seek Station:Station Owner at 81,100,128
+loop path fail: <same square> dog,90,106,128 -> 86,107,128: Id #8927:Path Goal Seek Station:Station Owner at 86,112,128
+loop path fail: <same square> dog,90,101,128 -> 78,103,128: Id #8770:Path Goal Seek Station:Station Owner at 78,106,128
+loop path fail: <same square> dog,89,102,128 -> 88,102,128: Id #8927:Path Goal Seek Station:Station Owner at 83,108,128
+loop path fail: <same square> dog,90,101,128 -> 81,106,128: Id #8481:Path Goal Seek Station:Station Owner at 83,107,128
+loop path fail: <same square> cat,83,105,124 -> 85,107,124: Id #8848:Path Goal Seek Station:Station Vermin Hunting at 90,106,124
+loop path fail: <same square> dog,85,99,124 -> 72,93,124: Id #8838:Path Goal Seek Station:Station Owner at 94,92,129
+loop path fail: <same square> dog,91,100,124 -> 78,102,124: Id #8770:Path Goal Seek Station:Station Owner at 86,111,128
+loop path fail: <same square> dwarf,Drink,89,107,124 -> 83,109,124: Id #8661:Path Goal Seek Drink Item:Station Mill Building at 73,107,124
+loop path fail: <same square> dog,92,103,128 -> 89,106,128: Id #9060:Path Goal Seek Station:Station Owner at 90,105,128
+loop path fail: <same square> cat,90,101,128 -> 76,101,128: Id #8653:Path Goal Seek Station:Station Owner at 86,99,128
+loop path fail: <same square> cat,83,108,124 -> 90,104,124: Id #8890:Path Goal Seek Station:Station Owner at 74,100,124
+loop path fail: <same square> dog,75,96,124 -> 76,88,124: Id #8621:Path Goal Seek Station:Station Owner at 88,106,124
+loop path fail: <same square> dog,77,103,124 -> 72,107,124: Id #8963:Path Goal Seek Station:Station Owner at 88,109,124
+loop path fail: <same square> dog,89,105,128 -> 84,111,128: Id #8754:Path Goal Seek Station:Station Owner at 86,109,128
+loop path fail: <same square> cat,82,100,124 -> 115,108,126: Id #8850:Path Goal Seek Station:Station Owner at 110,104,126
+loop path fail: <same square> dog,85,106,124 -> 86,107,124: Id #8832:Path Goal Seek Station:Station Owner at 87,107,124
+loop path fail: <same square> dog,93,104,124 -> 74,93,124: Id #8912:Path Goal Seek Station:Station Owner at 82,100,124
+loop path fail: <same square> dog,90,101,128 -> 78,103,128: Id #8481:Path Goal Seek Station:Station Owner at 79,104,128
+loop path fail: <same square> dog,91,100,128 -> 78,105,128: Id #8974:Path Goal Seek Station:Station Owner at 81,100,128
+loop path fail: <same square> dog,92,100,124 -> 78,102,124: Id #8832:Path Goal Seek Station:Station Mill Building at 70,105,124
+loop path fail: <same square> dog,93,106,128 -> 76,88,124: Id #9059:Path Goal Seek Station:Station Owner at 92,95,124
+loop path fail: <same square> dog,95,105,128 -> 88,108,128: Id #9091:Path Goal Seek Station:Station Owner at 88,109,128
